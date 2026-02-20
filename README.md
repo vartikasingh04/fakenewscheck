@@ -94,6 +94,7 @@ Result is sent back and displayed on the UI.
 
 📸 Screenshot
 
+!<img width="1404" height="776" alt="Screenshot 2026-02-20 102648" src="https://github.com/user-attachments/assets/5e4c982c-ebb1-4fb2-b419-07e597b85877" />
 
 
 
